@@ -1,0 +1,2 @@
+python bl_connect_BB24_200.py
+pause
